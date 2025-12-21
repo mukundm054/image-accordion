@@ -43,21 +43,17 @@ A clean and interactive **Image Accordion UI component** built using HTML, CSS, 
 ## 🌐 Live Demo
 You can view the live demo here (if deployed using GitHub Pages):
 ```
-https://your-username.github.io/image-accordion/
+(https://mukundm054.github.io/image-accordion/)
 ```
 (Replace with your actual link.)
 
 ---
 
-## 🤝 Contributing
-Feel free to submit issues or fork the repo to improve the design.
+# project structure
+image-accordion/
+│
+├── index.html
+├── style.css
+├── script.js (optional / empty)
+└── README.md
 
----
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
----
-
-## ⭐ Support
-If you like this project, give it a **star** on GitHub!
